@@ -1,0 +1,6 @@
+Traffic_Source,Session_Start,Product_View,Add_to_Cart,Initiate_Checkout,Complete_Checkout,Order_Confirmed,Conversion_Rate
+Direct,2031,1460,855,620,331,331,16.3
+Email,2009,1435,866,651,336,336,16.72
+Organic Search,1969,1395,859,639,323,323,16.4
+Paid Ads,2002,1398,827,623,330,330,16.48
+Social Media,1989,1383,857,647,338,338,16.99

@@ -1,0 +1,4 @@
+Device,Session_Start,Product_View,Add_to_Cart,Initiate_Checkout,Complete_Checkout,Order_Confirmed,Conversion_Rate
+Desktop,3345,2338,1393,1030,681,681,20.36
+Mobile,3331,2364,1395,1051,359,359,10.78
+Tablet,3324,2369,1476,1099,618,618,18.59
