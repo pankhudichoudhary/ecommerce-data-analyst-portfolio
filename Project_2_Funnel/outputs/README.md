@@ -1,7 +1,7 @@
 # E-commerce Conversion Funnel Analysis
 
 ## Objective
-Analyze drop-offs across the e-commerce funnel and compare conversion performance by device.
+Analyze drop-offs across the e-commerce funnel and compare conversion performance by device. 
 
 ## Tools
 - Python
