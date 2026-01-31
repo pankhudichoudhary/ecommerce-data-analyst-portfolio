@@ -11,6 +11,20 @@ The full workflow is available in the Jupyter notebook: `RFM_Project.ipynb`
 - Python (Pandas, NumPy)
 - Tableau Public
 
+## What is RFM?
+RFM (Recency, Frequency, Monetary) is a customer segmentation technique used to evaluate customer value based on:
+- Recency: how recently a customer made a purchase
+- Frequency: how often a customer purchases
+- Monetary: how much a customer spends
+It is widely used in e-commerce and CRM analytics to prioritize retention, loyalty, and reactivation strategies.
+
+## Segment Definitions
+- Champions: Recent, frequent, high-spending customers who contribute the highest revenue
+- Loyal Customers: Frequent purchasers with consistent engagement
+- Potential Loyalists: Recently active customers with growth potential
+- At Risk: Previously valuable customers with declining recent activity
+- Lost Customers: Inactive customers with low recency and frequency
+
 ## What I Did
 - Cleaned transaction-level retail data
 - Calculated RFM metrics per customer
