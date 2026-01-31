@@ -3,6 +3,10 @@
 ## Objective
 Segment e-commerce customers using Recency, Frequency, and Monetary (RFM) analysis to identify high-value, loyal, and at-risk customers.
 
+## Python Workflow
+The complete data cleaning, RFM scoring, and customer segmentation logic was implemented in Python using Pandas.  
+The full workflow is available in the Jupyter notebook: `RFM_Project.ipynb`
+
 ## Tools
 - Python (Pandas, NumPy)
 - Tableau Public
